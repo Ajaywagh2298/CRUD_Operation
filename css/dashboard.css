@@ -1,0 +1,35 @@
+.head{
+    background-color: #F5B041;
+    height: 100px;
+
+}
+.title{
+    font-size: 40px;
+    font-family: Calibri;
+    font-weight: bolder;
+    margin-left: 4%;
+    color: aliceblue;
+}
+.logo{
+    color: #FEF9E7;
+}
+.login{
+    margin-right:2%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.table-box{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.btn{
+    width: 100px;
+    background-color: #E74C3C;
+}
+.search{
+  height: 5px;
+}
+.red{
+    color: #16A085;
+}

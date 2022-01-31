@@ -1,0 +1,29 @@
+body {
+
+}
+.container{
+    margin: 10%;
+}
+.login{
+    padding: 10%;
+}
+.login-text{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.main {
+    padding-top: 10%;
+}
+.login-box{
+    padding: 5%;
+}
+.divider{
+    border: 1px solid #D1D1D6;
+    margin: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.icon{
+    width: 180px;
+    color: white;
+}
